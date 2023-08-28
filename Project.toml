@@ -1,0 +1,7 @@
+name = "QuanCom"
+uuid = "e4845be5-9d93-40d7-b30c-e40ed7a6fbc7"
+authors = ["tyke "]
+version = "0.1.0"
+
+[deps]
+Braket = "19504a0f-b47d-4348-9127-acc6cc69ef67"
